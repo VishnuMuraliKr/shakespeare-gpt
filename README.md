@@ -1,5 +1,5 @@
 
-# Shakspeare GPT (Trying out Karpathy's GPT module )
+# Shakspeare GPT (Following Karpathy's GPT module )
 A simple, minimal character level language model trained on Shakespeare's works, inspired by [Andrej Karpathy's](https://github.com/karpathy) youtube video ["Let's build GPT: from scratch, in code, spelled out."](https://youtu.be/kCc8FmEb1nY?si=jsH0b1V7lZXlUtiG)
 
 ## Overview
